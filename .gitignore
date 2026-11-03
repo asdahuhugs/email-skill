@@ -1,0 +1,8 @@
+# Email credentials - never commit
+email_config.json
+config.txt
+*.env
+
+# Python
+__pycache__/
+*.pyc
